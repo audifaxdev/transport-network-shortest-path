@@ -9,6 +9,7 @@
 - [Practice](#practice)
 - [Scalability](#scalability)
 - [Source](#source)
+- [TODO](#todo)
 
 ##Description
 
@@ -109,7 +110,9 @@ Andrew Goldberg on Hub-Labelling
 ##TODO
 
 -Fix markdown
+
 -Unit testing
+
 -Benchmark All-pairs shortest path algorithms
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
