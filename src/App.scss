@@ -1,0 +1,17 @@
+#App-Component {
+	#toolbar {
+		top: 0;
+		left: 0;
+		width: 100%;
+		padding: 30px 80px;
+		@media screen and (max-width: 768px) {
+			padding: 30px 40px;
+		}
+		background: transparent;
+	}
+	canvas {
+		position: absolute;
+		//top: 0;
+		//left: 0;
+	}
+}
