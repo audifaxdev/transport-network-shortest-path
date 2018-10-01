@@ -108,6 +108,7 @@ Andrew Goldberg on Hub-Labelling
 
 ##TODO
 
+-Fix markdown
 -Unit testing
 -Benchmark All-pairs shortest path algorithms
 
